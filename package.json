@@ -1,6 +1,6 @@
 {
-    "title": "One Page Wonder",
-    "name": "startbootstrap-one-page-wonder",
+    "title": "Galaxy will be yours",
+    "name": "startbootstrap- galaxy will be yours",
     "version": "6.0.4",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
